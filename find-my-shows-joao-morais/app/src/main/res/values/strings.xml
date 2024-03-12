@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Find My Shows</string>
+    <string name="search_shows">Search Shows</string>
+    <string name="show_details">Show Details</string>
+    <string name="show_name">Show name</string>
+    <string name="name">Name: </string>
+    <string name="image">Image: </string>
+    <string name="overview">Overview: </string>
+    <string name="origin_country">Origin country: </string>
+    <string name="original_language">Original language: </string>
+    <string name="number_of_episodes">Number of episodes: </string>
+    <string name="number_of_seasons">Number of seasons: </string>
+    <string name="keywords">"Keywords: "</string>
+    <string name="season">"Season %1$s: "</string>
+</resources>

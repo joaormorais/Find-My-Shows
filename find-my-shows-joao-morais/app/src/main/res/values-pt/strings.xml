@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find My Shows</string>
+    <string name="search_shows">Procurar Séries</string>
+    <string name="show_details">Detalhes da série</string>
+    <string name="show_name">Nome da série</string>
+    <string name="name">Nome: </string>
+    <string name="image">Imagem: </string>
+    <string name="overview">Resumo: </string>
+    <string name="origin_country">País de origem: </string>
+    <string name="original_language">Idioma original: </string>
+    <string name="number_of_episodes">Número de episódios: </string>
+    <string name="number_of_seasons">Número de temmporadas: </string>
+    <string name="keywords">Palavras-chave:</string>
+    <string name="season">Temporada: %1$s</string>
+</resources>
